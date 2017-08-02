@@ -217,4 +217,8 @@ public class StreamTest {
         return input == null ? null : "output for " + input;
     }
 
+
+    public void testString(){
+        StringBuilder stringBuilder = new StringBuilder();
+    }
 }
